@@ -1,0 +1,6 @@
+name: "import"
+version: "0.1.0"
+usage: "import a kubernetes resource into a helm resource"
+description:
+ignoreFlags: true
+command: "$HELM_PLUGINDIR/import.sh"
